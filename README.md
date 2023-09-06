@@ -46,7 +46,7 @@ B) If we have a bug in the first name field that accepts less than 5 letters, re
       6.  Check the scenario from the attached image or video
 # Expected Results: The first name should  not accept  less than 5 letters
 # Actual Results: The first name field accepts less than 5 letters
-# Note app version app is v11.5
+# Note app version app is v11.55
        
       
 
