@@ -36,7 +36,7 @@
 B) If we have a bug in the first name field that accepts less than 5 letters, report a bug
  The answer to B :
     [Subscription]-The first name field accepts less than 5 letters
-    Steps to reproduce:
+   # Steps to reproduce:
       1. login to the app
       2.  From accounting click on the user profile
       3.  Click on add a new subscription
