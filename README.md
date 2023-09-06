@@ -19,7 +19,7 @@
   #  Given User login to the app 
   #  And Open the Accounting
   #  And from the bottom navigation bar click on User Profile
-  #  When click on add new subscription
+  #  When clicking on add a new subscription
   #  And user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender)
   #  Then Subscribe Done
     
