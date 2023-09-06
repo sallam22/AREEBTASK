@@ -15,13 +15,13 @@
   A) Write only one or two full scenarios with steps (BDD) and the other scenarios title only
     The answer to A :
  #  Feature: New Subscription
-  Scenario: Verify when the user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender) and then able to make a subscription
-    Given User login to the app 
-    And Open the Accounting
-    And from the bottom navigation bar click on User Profile
-    When click on add new subscription
-    And user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender)
-    Then Subscribe Done
+ # Scenario: Verify when the user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender) and then able to make a subscription
+  #  Given User login to the app 
+  #  And Open the Accounting
+  #  And from the bottom navigation bar click on User Profile
+  #  When click on add new subscription
+  #  And user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender)
+  #  Then Subscribe Done
     
     
     Scenario: Verify when the user enters a first name less 5 letters then a message error appears for validation
