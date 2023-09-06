@@ -34,6 +34,7 @@
     Scenario: Verify when the user adds empty data for all fields then a message error appears to tell the user for mandatory fields
 
 B) If we have a bug in the first name field that accepts less than 5 letters, report a bug
+ The answer to B :
     [Subscription]-The first name field accepts less than 5 letters
     Steps to reproduce:
        1. login to the app
