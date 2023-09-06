@@ -14,7 +14,7 @@
 
   A) Write only one or two full scenarios with steps (BDD) and the other scenarios title only
     The answer to A :
-   Feature: New Subscription
+ #  Feature: New Subscription
   Scenario: Verify when the user enters valid (First Name-Last Name-Mobile-Email-Birthdate-Address-Gender) and then able to make a subscription
     Given User login to the app 
     And Open the Accounting
