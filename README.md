@@ -35,7 +35,7 @@
 
 B) If we have a bug in the first name field that accepts less than 5 letters, report a bug
  The answer to B :
-    [Subscription]-The first name field accepts less than 5 letters
+   # [Subscription]-The first name field accepts less than 5 letters
    # Steps to reproduce:
       1. login to the app
       2.  From accounting click on the user profile
@@ -44,9 +44,9 @@ B) If we have a bug in the first name field that accepts less than 5 letters, re
            ex >> first name= ahm
       5. Fill in other fields and save
       6.  Check the scenario from the attached image or video
-Expected Results: The first name should  not accept  less than 5 letters
-Actual Results: The first name field accepts less than 5 letters
-Note app version app is v11.5
+# Expected Results: The first name should  not accept  less than 5 letters
+# Actual Results: The first name field accepts less than 5 letters
+# Note app version app is v11.5
        
       
 
